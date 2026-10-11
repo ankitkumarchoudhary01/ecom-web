@@ -32,7 +32,7 @@ const Hero = () => {
       {/* YouTube Background Video */}
       <iframe
         className="pointer-events-none absolute inset-0 h-full w-full scale-[1.15]"
-        src="https://www.youtube.com/embed/a3ICNMQW7Ok?si=y2O9iogTi5Ba-6eC"
+        src="https://www.youtube.com/embed/a3ICNMQW7Ok?autoplay=1&mute=1&loop=1&playlist=s9q_82OQsJE&controls=0&rel=0&modestbranding=1"
         title="Prowrrap Hero Video"
         allow="autoplay; encrypted-media"
         allowFullScreen
